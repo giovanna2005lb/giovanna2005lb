@@ -74,7 +74,7 @@
 | 🧊 Modelo | 🔗 Link |
 |:---:|:---:|
 | [Cenário Hospital](https://skfb.ly/oLYzz) | [Ver no Sketchfab ↗](https://skfb.ly/oLYzz) |
-| [Gatos](https://skfb.ly/oLYzF) | [Ver no Sketchfab ↗](https://skfb.ly/oLYzF) |
+| [Gatos](https://skfb.ly/oLZzM) | [Ver no Sketchfab ↗](https://skfb.ly/oLZzM) |
 | [Armarinho](https://skfb.ly/oAMuY) | [Ver no Sketchfab ↗](https://skfb.ly/oAMuY) |
 | [Machadão](https://skfb.ly/oT7So) | [Ver no Sketchfab ↗](https://skfb.ly/oT7So) |
 
