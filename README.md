@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="lobo" src="https://cdn.discordapp.com/attachments/1285766074750734408/1484258072326312115/github-header-banner_1.png?ex=69bd928c&is=69bc410c&hm=3124bb0602caea187d6544c71bff4178837e407348265af7dcb23270da747c74"/>
+  <img width="100%" alt="lobo" src="https://media.discordapp.net/attachments/1328984876417814642/1486038793382531235/github-header-banner_1.png?ex=69c40cf9&is=69c2bb79&hm=b5983333f6c156e223f3c620965d21b724ffc542ea648fee4dcf53373583b8f2&=&format=webp&quality=lossless"/>
 </div>
 
 ---
